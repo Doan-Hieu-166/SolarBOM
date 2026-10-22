@@ -1,0 +1,2 @@
+# SolarBOM
+AI in AutoCAD
